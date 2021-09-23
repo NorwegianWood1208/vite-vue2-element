@@ -1,0 +1,30 @@
+{
+  "name": "vite-vue2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "axios": "0.18.1",
+    "element-ui": "2.7.2",
+    "js-cookie": "2.2.0",
+    "normalize.css": "7.0.0",
+    "nprogress": "^0.2.0",
+    "path-to-regexp": "2.4.0",
+    "scss": "^0.2.4",
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.6",
+    "path-browserify": "^1.0.1",
+    "sass": "^1.42.0",
+    "sass-loader": "7.0.3",
+    "vite-plugin-vue2": "^1.8.2",
+    "vue": "^2.6.14",
+    "vue-router": "3.0.1",
+    "vue-template-compiler": "^2.6.14",
+    "vuex": "^3.0.1"
+  }
+}
